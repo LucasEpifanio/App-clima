@@ -1,4 +1,4 @@
-<p align="center"> <img src="./assets/images/logo1.png" alt="Logo do app"> </p>
+<p align="center"> <img src="./assets/images/logo.png" alt="Logo do app"> </p>
 <h2 align="center">App responsivo para de Clima Tempo.</h2>
 
 
