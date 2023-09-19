@@ -1,61 +1,13 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
-## Tech Stack
-
-**Client:** HTML, CSS, JavaScript, API
-
-## Demo
-
-Insert gif or link to demo
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Open with VSCode
-
-```bash
-  code .
-```
-
-Open with live server
-
-```bash
-  npm run start
-```
+<p align="center"> <img src="./assets/images/logo1.png" alt="Logo do app"> </p>
+<p align="center">App responsivo para de Clima Tempo.</p>
 
 
-## Authors
+## Tecnologias utilizadas no projeto
+* HTML
+* CSS
+* JavaScript
 
-- [@codewithsadee](https://www.github.com/codewithsadee)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Support
-
-For support, Join my [Patreon Comunity](https://www.patreon.com/codewithsadee/membership) or Subscribe My [YouTube Channel](https://youtube.com/@codewithsadee).
+## API utilizada no projeto
+<p align="center"> <img src="./assets/images/openweather.png" alt="Logo da API"> </p>
+<a align="center" href="https://openweathermap.org/" > </a>
+<a align="center" href="https://www.postman.com/" > </a>

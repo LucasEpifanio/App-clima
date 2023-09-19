@@ -1,8 +1,6 @@
 /**
- * @license MIT
- * @fileoverview All module functions
  * @copyright lucasepifanio 2023 All rights reserved
- * @author codewithsadee <lucasepifaniodev@gmail.com>
+ * @author <lucasepifaniodev@gmail.com>
  */
 
 'use strict';
